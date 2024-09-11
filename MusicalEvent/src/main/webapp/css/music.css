@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+.aa{
+	height:450px;
+	width:1500px;
+}
+.bb{
+		height:250px;
+	 width:1500px;
+}
+.cc{
+		height:600px;
+	width:1700px;
+}
+.navbar-text{
+	margin-left:500px;
+}
+.container{
+	background-color:#c0c0c0;
+    width: 500px;
+    height: 370px;
+    padding-left:50px;
+    margin:auto;
+    margin-top:70px;
+}
+
+.regpage{
+	position:relative;
+	height:450px;
+	width:400px;
+	background-color:transparent;
+	border:2px solid rgba(255,255,255,.5);
+	border-radius:2%;
+	backdrop-filter:blur(20px);
+	 margin-left:290px;
+     margin-top:200px;
+}
+.loginbox{
+	position:relative;
+	height:300px;
+	width:400px;
+	background-color:transparent;
+	border:2px solid rgba(255,255,255,.5);
+	border-radius:2%;
+	backdrop-filter:blur(20px);
+	 margin-left:190px;
+     margin-top:260px;
+	
+}
+.img{
+    
+            width: 100%;
+            height:550px;
+            overflow: hidden;
+            background-size:cover; 
+}
+
+.imgtxt{
+	        width: 90%;
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            text-align: center;
+            
+            
+}
+.contact{
+	border:2px solid beige;
+	border-radius:2%;
+          background-color:transparent;
+          position:relative;
+          width:200px;
+          height:200px;
+          bottom: 20px;
+    text-align: center;
+    padding: 30px;
+     margin-left:200px;
+     margin-top:60px;
+}
+.comment{
+	height:20px;
+}	
+
+.ticket{
+	border:2px solid;
+	border-radius:2%;
+          background-color:transparent;
+          position:relative;
+          width:200px;
+          height:200px;
+          bottom: 20px;
+    text-align: center;
+    padding: 30px;
+     margin-left:200px;
+     margin-top:60px;
+}
